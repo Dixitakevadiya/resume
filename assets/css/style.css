@@ -11611,7 +11611,8 @@
     background-color: #979797;
   }
   
-  main .time-line-item:nth-child(2n)::after {
+  main .time-line-item:nth-child(2n)::after,
+  main .time-line-item:nth-child(3n)::after {
     background-color: #486856;
   }
   

@@ -11667,7 +11667,7 @@
   
   main .service-card:first-child,
   main .service-card:nth-child(3) {
-    border-right: 1px solid #f3f3f3;
+    border-right: 1px solid #486856;
   }
   
   @media (max-width: 991px) {

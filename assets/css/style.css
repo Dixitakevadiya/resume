@@ -11903,9 +11903,9 @@
   }
   
   main .portfolio-wrapper .portfolio-item {
-    width: calc(25% - 10.5px);
+    width: calc(25% - 11.5px);
     height: 300px;
-    margin-bottom: 15px;
+    margin: 10px 5px 10px 5px;
     background-color: #f2f2f2;
     display: flex;
     justify-content: center;
@@ -11914,7 +11914,7 @@
   
   @media (max-width: 1500px) {
     main .portfolio-wrapper .portfolio-item {
-      width: calc(50% - 7px);
+      width: calc(50% - 10px);
     }
   }
   
@@ -11926,7 +11926,7 @@
   
   @media (max-width: 767px) {
     main .portfolio-wrapper .portfolio-item {
-      width: calc(50% - 7px);
+      width: calc(50% - 10px);
     }
   }
   
